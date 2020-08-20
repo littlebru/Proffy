@@ -48,7 +48,7 @@
 
 
 
-<p align="center">This project was developed during the bootcamp <a href="https://nextlevelweek.com/inscricao/2">Next Level Week</a>, pprovided by <a href="https://rocketseat.com.br">RocketSeat 🚀</a></p>
+<p align="center">This project was developed during the bootcamp <a href="https://nextlevelweek.com/inscricao/2">Next Level Week</a>, provided by <a href="https://rocketseat.com.br">RocketSeat 🚀</a></p>
 
 
 <h3 id="author>Author</h3>
