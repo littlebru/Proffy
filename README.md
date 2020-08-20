@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://github.com/littlebru/Proffy/blob/master/images/document-images/Banner.png" alt="banner-proffy" width="270px">
+  <img src="https://github.com/littlebru/Proffy/blob/master/images/document-images/Banner.png" alt="banner-proffy" width="300px">
 </p>
 
+<p align="center">  
+  <a href="https://github.com/littlebru/Proffy/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/littlebru/Proffy?style=flat&logo=appveyor&color=36c886">
+  </a>
+</p>
+
+
+
 <p align="center">
-  Proffy é uma plataforma que promove a conexão entre professores e alunos.
+  <i>Project made to connect students to teachers.📔</i>
 </p>
 
 
