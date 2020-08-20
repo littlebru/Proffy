@@ -61,8 +61,8 @@ design made by [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
     <td colspan="2">Mobile</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/dxwebster/NLW2-Proffy/blob/master/readme/preview-web.png" width=300 /></td><td><img src="https://github.com/dxwebster/NLW2-Proffy/blob/master/readme/Formulário.png" width=300 /></td>
-    <td><img src="https://github.com/dxwebster/NLW2-Proffy/blob/master/readme/preview-mobile.png" width=180 /></td><td><img src="https://github.com/dxwebster/NLW2-Proffy/blob/master/readme/Home-mobile.png" width=180 /></td>
+    <td><img src="https://github.com/littlebru/Proffy/blob/master/images/document-images/preview-web.png" width=300 /></td><td><img src="https://github.com/littlebru/Proffy/blob/master/images/document-images/Formulário.png" width=300 /></td>
+    <td><img src="https://github.com/littlebru/Proffy/blob/master/images/document-images/preview-mobile.png" width=180 /></td><td><img src="https://github.com/littlebru/Proffy/blob/master/images/document-images/Home-mobile.png" width=180 /></td>
   </tr>
 </table>
 
