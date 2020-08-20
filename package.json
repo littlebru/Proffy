@@ -3,7 +3,7 @@
   "version": "1.3.0",
   "description": "Plataforma de estudos on-line",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "dev": "nodemon src/server.js"
   },
   "author": "Bruna Gomes",
   "license": "MIT",
@@ -19,6 +19,5 @@
   "keywords": [
     "javascript",
     "node"
-  ],
-  "main": "index.js"
+  ]
 }

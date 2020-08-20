@@ -6,10 +6,12 @@
 
         <title>Proffy | Sua plataforma de estudos online</title>
 
-        <link rel="stylesheet" href="/styles/main.css">
-        <link rel="stylesheet" href="/styles/partials/page-give-classes.css">
-        <link rel="stylesheet" href="/styles/partials/header.css">
-        <link rel="stylesheet" href="/styles/partials/forms.css">
+        <link rel="shortcut icon" href="./images/favicon.png" type="image/png">
+
+        <link rel="stylesheet" href="./styles/main.css">
+        <link rel="stylesheet" href="./styles/partials/page-give-classes.css">
+        <link rel="stylesheet" href="./styles/partials/header.css">
+        <link rel="stylesheet" href="./styles/partials/forms.css">
 
         <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 
@@ -27,12 +29,12 @@
 
                 <div class="header-content">
                     <strong>Que incrível que você quer dar aulas</strong>
-                    <p>Primeiro passo é preencher esse formulário de inscrições</p>
+                    <p>O primeiro passo é preencher esse formulário de inscrição</p>
                 </div>
             </header>
         
             <main>
-                <form action="" id="create-class">
+                <form action="/save-classes" id="create-class" method="POST">
                     <fieldset>
                         <legend>Seus Dados</legend>
 
@@ -125,6 +127,6 @@
             </main>
         </div>
 
-        <script src="scripts/addField.js"></script>
+        <script src="/scripts/addField.js"></script>
     </body>
 </html>
