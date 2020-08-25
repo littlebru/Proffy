@@ -8,9 +8,10 @@
   </a>
 </p>
 
-
+<p align="center">
 <a href="https://github.com/littlebru/Proffy/blob/master/README.md" alt="acessar em portugues">pt-br</a>
-
+</p>
+  
 <p align="center">
   <i>Project made to connect students to teachers.📔</i>
 </p>
